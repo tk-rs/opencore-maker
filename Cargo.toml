@@ -1,0 +1,11 @@
+[package]
+name = "opencore-maker"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+console = "0.15.8"
+dialoguer = "0.11.0"
+indicatif = "0.17.9"
+machine-info = "1.0.9"
+serde = "1.0.215"
